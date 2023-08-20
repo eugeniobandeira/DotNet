@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\bin\Debug\net6.0\Retangulo.exe
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\bin\Debug\net6.0\Retangulo.deps.json
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\bin\Debug\net6.0\Retangulo.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\bin\Debug\net6.0\Retangulo.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\bin\Debug\net6.0\Retangulo.pdb
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\refint\Retangulo.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.pdb
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\Retangulo.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Retangulo\obj\Debug\net6.0\ref\Retangulo.dll

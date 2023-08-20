@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.exe
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.deps.json
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.pdb
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\refint\Funcionario.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.pdb
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\Funcionario\Funcionario\obj\Debug\net6.0\ref\Funcionario.dll

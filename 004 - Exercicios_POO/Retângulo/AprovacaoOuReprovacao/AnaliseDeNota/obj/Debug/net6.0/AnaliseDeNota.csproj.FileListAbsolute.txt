@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\bin\Debug\net6.0\AnaliseDeNota.exe
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\bin\Debug\net6.0\AnaliseDeNota.deps.json
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\bin\Debug\net6.0\AnaliseDeNota.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\bin\Debug\net6.0\AnaliseDeNota.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\bin\Debug\net6.0\AnaliseDeNota.pdb
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\refint\AnaliseDeNota.dll
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.pdb
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\AnaliseDeNota.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\004 - Exercicios_POO\Retângulo\AprovacaoOuReprovacao\AnaliseDeNota\obj\Debug\net6.0\ref\AnaliseDeNota.dll

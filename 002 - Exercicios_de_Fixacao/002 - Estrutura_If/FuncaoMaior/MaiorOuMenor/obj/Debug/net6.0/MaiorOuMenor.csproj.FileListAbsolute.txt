@@ -1,0 +1,30 @@
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.exe
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.deps.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\refint\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002_estruturaIf\MaiorOuMenor\MaiorOuMenor\obj\Debug\net6.0\ref\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.exe
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.deps.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\bin\Debug\net6.0\MaiorOuMenor.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\refint\MaiorOuMenor.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\MaiorOuMenor.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\002 - Estrutura_If\FuncaoMaior\MaiorOuMenor\obj\Debug\net6.0\ref\MaiorOuMenor.dll

@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\bin\Debug\net6.0\Enquanto.exe
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\bin\Debug\net6.0\Enquanto.deps.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\bin\Debug\net6.0\Enquanto.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\bin\Debug\net6.0\Enquanto.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\bin\Debug\net6.0\Enquanto.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\refint\Enquanto.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\Enquanto.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\003 - Estrutura_While\Enquanto\obj\Debug\net6.0\ref\Enquanto.dll

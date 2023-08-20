@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\bin\Debug\net6.0\001_saidaDeDados.exe
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\bin\Debug\net6.0\001_saidaDeDados.deps.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\bin\Debug\net6.0\001_saidaDeDados.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\bin\Debug\net6.0\001_saidaDeDados.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\bin\Debug\net6.0\001_saidaDeDados.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\refint\001_saidaDeDados.dll
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.pdb
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\001_saidaDeDados.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\002_Exercicios_de_Fixacao\001_saidaDeDados\obj\Debug\net6.0\ref\001_saidaDeDados.dll

@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\bin\Debug\net6.0\CalculoDeAreaSemPOO.exe
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\bin\Debug\net6.0\CalculoDeAreaSemPOO.deps.json
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\bin\Debug\net6.0\CalculoDeAreaSemPOO.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\bin\Debug\net6.0\CalculoDeAreaSemPOO.dll
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\bin\Debug\net6.0\CalculoDeAreaSemPOO.pdb
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.dll
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\refint\CalculoDeAreaSemPOO.dll
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.pdb
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\CalculoDeAreaSemPOO.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\003 - Programacao_Orientada_A_Objetos\CalculoDeAreaSemPOO\CalculoDeAreaSemPOO\obj\Debug\net6.0\ref\CalculoDeAreaSemPOO.dll

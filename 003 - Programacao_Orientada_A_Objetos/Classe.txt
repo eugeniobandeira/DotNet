@@ -1,0 +1,38 @@
+Classe é um tipo estruturado que pode conter (membros):
+
+- Atributos (dados / campos)
+- Métodos (funções / operações)
+
+A classe é como se fosse um tipo personalizado. Para instanciar o objeto, é preciso fazer uma declaração.
+Por exemplo, criamos a classe triângulo 
+
+class Triangulo {
+	public double A;
+	public double B;
+	public double C;
+}
+
+e no momento da instanciação, deve-se fazer a seguinte declaração ---> 
+
+Triangulo x, y;
+x = new Triangulo();
+y = new Triangulo();
+
+
+A classe também pode prover muitos outros recursos, tais como: 
+# Construtores
+# Sobrecarga
+# Encapsulamento
+# Herança
+# Polimorfismo
+
+Exemplo:
+* Entidades: Produto, Cliente, Triangulo
+* Serviços: ProdutoService, ClientService, EmailService, StorageService
+* Controladores: ProdutoController, ClienteController
+* Utilitários: Calculadora, Compactador
+* Outros (Views, repositórios, gerenciadores, etc) 
+
+Observação: quando criar uma classe, deve-se informar o namespace no local onde for utilizá-la.
+
+No momento de instaciar, o nome deve ser o da classe e não do namespace.
