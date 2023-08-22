@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\refint\ConversorDeMoeda.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\005 - Membros_Estaticos\Parte_3 - Exercicio_Conversor_De_Moeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
