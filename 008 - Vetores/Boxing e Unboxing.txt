@@ -1,0 +1,19 @@
+Boxing: é o processo de conversão de um objeto tipo valor para um objeto tipo referência compatível.
+
+int x = 20;
+
+Objetic é um tipo genérico que é compatível com qualquer outro tipo, ele é tipo referência.
+
+Object obj = x;
+
+Neste caso, a variável (na memória stack) vai ser uma referência para um objeto na memória heap.
+
+-----------------------------------------------------------------------------------------------------
+
+Unboxing: é o processo de conversão de um objeto tipo referência para um objeto tipo valor compatível.
+
+int x = 20;
+Object obj = x;
+
+int y = (int) obj; //É preciso fazer o casting.
+Assim, vai ser criada a variável y na memória stack e ela vai receber o valor 20.

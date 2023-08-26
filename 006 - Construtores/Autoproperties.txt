@@ -1,0 +1,7 @@
+Propriedades autoimplementadas
+
+- É uma forma simplificada de se declarar propriedades que não necessitam lógicas particulares para as operações get e set.
+
+public double Preco { get; private set;)
+
+Dessa forma, será possível obter o preço, mas não será possível alterá-lo em outros "arquivos".

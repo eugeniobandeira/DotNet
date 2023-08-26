@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\bin\Debug\net6.0\AluguelDeQuarto.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\bin\Debug\net6.0\AluguelDeQuarto.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\bin\Debug\net6.0\AluguelDeQuarto.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\bin\Debug\net6.0\AluguelDeQuarto.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\bin\Debug\net6.0\AluguelDeQuarto.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\refint\AluguelDeQuarto.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\AluguelDeQuarto.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Exercicio\AluguelDeQuarto\obj\Debug\net6.0\ref\AluguelDeQuarto.dll

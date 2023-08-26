@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\bin\Debug\net6.0\Nullable.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\bin\Debug\net6.0\Nullable.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\bin\Debug\net6.0\Nullable.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\bin\Debug\net6.0\Nullable.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\bin\Debug\net6.0\Nullable.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\refint\Nullable.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\Nullable.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\002_Nullable\Nullable\obj\Debug\net6.0\ref\Nullable.dll

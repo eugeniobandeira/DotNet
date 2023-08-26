@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\bin\Debug\net6.0\CondicaoTernaria.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\bin\Debug\net6.0\CondicaoTernaria.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\bin\Debug\net6.0\CondicaoTernaria.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\bin\Debug\net6.0\CondicaoTernaria.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\bin\Debug\net6.0\CondicaoTernaria.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\refint\CondicaoTernaria.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\CondicaoTernaria.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\OperadorTernario\CondicaoTernaria\obj\Debug\net6.0\ref\CondicaoTernaria.dll

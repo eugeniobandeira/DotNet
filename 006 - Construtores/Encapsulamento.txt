@@ -1,0 +1,13 @@
+Encapsulamento
+
+- É um princípio que consiste em esconder detalhes de implementação de um componente, expondo apenas operações segurar e que o mantenha em um estado consistente.
+
+- Regra de ouro: o objeto deve sempre estar em um estado consistente e a própria classe deve garantir isso.
+
+Analogia: aparelho de som, pois somente as operações básicas ficam disponíveis para o usuário.
+
+Opção 1 - Implementação manual
+
+- Todo atributo é definido como private;
+- Implementa-se métodos Get e Set para cada atributo, conforme regras do negócio;
+- Nota: não é usual na plataforma C#;

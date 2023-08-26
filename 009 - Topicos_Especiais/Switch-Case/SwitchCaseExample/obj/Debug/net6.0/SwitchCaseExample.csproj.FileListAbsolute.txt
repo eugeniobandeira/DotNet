@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\bin\Debug\net6.0\SwitchCaseExample.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\bin\Debug\net6.0\SwitchCaseExample.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\bin\Debug\net6.0\SwitchCaseExample.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\bin\Debug\net6.0\SwitchCaseExample.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\bin\Debug\net6.0\SwitchCaseExample.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\refint\SwitchCaseExample.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\SwitchCaseExample.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\Switch-Case\SwitchCaseExample\obj\Debug\net6.0\ref\SwitchCaseExample.dll

@@ -1,0 +1,9 @@
+Palavra this
+
+- É uma referência para o próprio objeto
+
+- Usos comuns:
+	Diferenciar atributos de variáveis locais (java);
+	Referenciar outro construtor em um construtor;
+	Passar o próprio objeto como argumento na chamada de um método ou construtor;
+	

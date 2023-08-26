@@ -1,0 +1,49 @@
+Classes são tipos referência
+
+- Variáveis cujo tipo são classes não devem ser entendidas como caixas, mas sim ponteiros para caixas
+
+Produto p1, p2; 
+No exemplo acima, as variáveis são alocadas na memória stack.
+
+p1 = new Product("Tv", 900.00, 10);
+No exemplo acima, as variáveis são alocadas na memória heap (endereço).
+
+A memória stack aponta para o endereço no heap.
+
+p2 = p1;
+O p2 passará a apontar para o mesmo objeto (endereço).
+
+--------------------------------------------------
+
+Valor "null"
+Tipos referência aceitam o valor "null", que indica que a variável aponta pra ninguém
+
+
+***************************************************************************************************
+
+Structs são tipos valor
+
+A linguagem C# possui também tipos valor, que são os "structs".
+Structs são caixas e não ponteiros.
+
+Exemplos:
+int, long, double, char, bool, byte etc.
+DateTime (instante), TimeSpan(duração) também são structs
+
+double x, y;
+x = 10;
+y = x; //y recebe uma cópia de x;
+
+***************************************************************************************************
+
+Valores padrões
+
+- Quando alocamos (new) qualquer tipo estruturado (classe, struct, array), são atribuídos valores padrão aos seus elementos.
+
+numéros: 0
+bool: False
+char: caractere código 0
+objeto: null
+
+- Lembrando: uma variável apenas declarada, mas não instanciada, inicia em estado "não atribuída", e o próprio compilador não permite que ela seja acessada.
+

@@ -1,0 +1,17 @@
+Checklist
+
+- Formatar: ToLower(), ToUpper(), Trim();
+
+- Buscar: IndexOf, LastIndexOf
+
+- Recortar: Substring(início), Substring(início, tamanhp)
+
+- Substituir: Replace(char, char), Replace(string, string)
+
+- String.IsNullOrEmpty(str), String.IsNullOrWhiteSpace(str)
+
+- srt.Split('');
+
+- Conversão para número: int x = int.Parse(str), int x = Convert.ToInt32(str)
+
+- Conversão de número: str = x.ToString(), str = x.ToString("C"), str = x.ToString("C3"), str = x.ToString("F2")

@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Matriz\Matriz\obj\Debug\net6.0\ref\Matriz.dll

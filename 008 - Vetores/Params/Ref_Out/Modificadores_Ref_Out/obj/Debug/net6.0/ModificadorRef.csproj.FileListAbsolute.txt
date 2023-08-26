@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\bin\Debug\net6.0\ModificadorRef.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\bin\Debug\net6.0\ModificadorRef.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\bin\Debug\net6.0\ModificadorRef.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\bin\Debug\net6.0\ModificadorRef.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\bin\Debug\net6.0\ModificadorRef.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\refint\ModificadorRef.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ModificadorRef.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\008 - Vetores\Params\Ref\ModificadorRef\obj\Debug\net6.0\ref\ModificadorRef.dll

@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\bin\Debug\net6.0\Ex_ContaBancaria.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\bin\Debug\net6.0\Ex_ContaBancaria.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\bin\Debug\net6.0\Ex_ContaBancaria.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\bin\Debug\net6.0\Ex_ContaBancaria.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\bin\Debug\net6.0\Ex_ContaBancaria.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\refint\Ex_ContaBancaria.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\Ex_ContaBancaria.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\006 - Construtores\007_Exercicio-ContaBancaria\Ex_ContaBancaria\obj\Debug\net6.0\ref\Ex_ContaBancaria.dll

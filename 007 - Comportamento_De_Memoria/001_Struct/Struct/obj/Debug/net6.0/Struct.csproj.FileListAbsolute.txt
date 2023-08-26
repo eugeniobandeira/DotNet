@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\bin\Debug\net6.0\Struct.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\bin\Debug\net6.0\Struct.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\bin\Debug\net6.0\Struct.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\bin\Debug\net6.0\Struct.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\refint\Struct.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\007 - Comportamento_De_Memoria\001_Struct\Struct\obj\Debug\net6.0\ref\Struct.dll

@@ -1,0 +1,34 @@
+Garbage collector
+- É um processo que automatiza o gerenciamento de memória de um programa em execução.
+- O garbage collector monitora os objetos alocados dinamicamente pelo programa (no heap), desalocando aqueles que não estão mais sendo utilizados.
+
+Desalocação por garbage collector
+Exemplo:
+
+Product p1, p2;
+p1 = new Product("Tv", 500.00, 5);
+p2 = new Product("Celular", 999.00, 3);
+
+
+Se em algum momento o p1 = p2, tanto o p1 como p2 estarão apontando para o mesmo endereço no heap.
+Logo, o objeto que apontava para o p1 será desalocado pelo garbage collector, pois não terá nada apontando para ele.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Desalocação por escopo
+
+void method1() {
+	int x = 10;
+	if (x > 0) {
+		int y = 20;
+	}
+	Console.WriteLine(x);
+}
+
+Primeiro será realizado o escopo do method1, depois o escopo do if.
+Após a finalização do escopo do if, o valor da variável sairá da memória stack
+
+
+Resumo
+- Objetos alocados dinamicamente, quando não possuem mais referência pra eles, serão desalocados pelo garbage collector.
+- Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução.

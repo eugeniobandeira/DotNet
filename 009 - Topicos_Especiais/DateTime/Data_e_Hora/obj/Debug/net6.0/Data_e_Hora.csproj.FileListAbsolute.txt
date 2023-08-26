@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\bin\Debug\net6.0\Data_e_Hora.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\bin\Debug\net6.0\Data_e_Hora.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\bin\Debug\net6.0\Data_e_Hora.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\bin\Debug\net6.0\Data_e_Hora.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\bin\Debug\net6.0\Data_e_Hora.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\refint\Data_e_Hora.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\Data_e_Hora.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTime\Data_e_Hora\obj\Debug\net6.0\ref\Data_e_Hora.dll

@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\bin\Debug\net6.0\Duracao.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\bin\Debug\net6.0\Duracao.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\bin\Debug\net6.0\Duracao.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\bin\Debug\net6.0\Duracao.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\bin\Debug\net6.0\Duracao.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\refint\Duracao.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\Duracao.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\TimeSpan\Duracao\obj\Debug\net6.0\ref\Duracao.dll
