@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\bin\Debug\net6.0\DateTimeKind_Padroes.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\bin\Debug\net6.0\DateTimeKind_Padroes.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\bin\Debug\net6.0\DateTimeKind_Padroes.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\bin\Debug\net6.0\DateTimeKind_Padroes.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\bin\Debug\net6.0\DateTimeKind_Padroes.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\refint\DateTimeKind_Padroes.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\DateTimeKind_Padroes.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\009 - Topicos_Especiais\DateTimeKind\DateTimeKind_Padroes\obj\Debug\net6.0\ref\DateTimeKind_Padroes.dll
