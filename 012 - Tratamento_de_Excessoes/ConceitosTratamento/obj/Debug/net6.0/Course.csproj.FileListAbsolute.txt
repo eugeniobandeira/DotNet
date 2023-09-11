@@ -1,0 +1,5 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\012 - Tratamento_de_Excessoes\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\012 - Tratamento_de_Excessoes\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\012 - Tratamento_de_Excessoes\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\012 - Tratamento_de_Excessoes\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\012 - Tratamento_de_Excessoes\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
