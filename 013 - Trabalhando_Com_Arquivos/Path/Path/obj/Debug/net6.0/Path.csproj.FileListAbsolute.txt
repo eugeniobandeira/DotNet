@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\bin\Debug\net6.0\Path.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\bin\Debug\net6.0\Path.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\bin\Debug\net6.0\Path.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\bin\Debug\net6.0\Path.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\bin\Debug\net6.0\Path.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\refint\Path.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\Path.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Path\Path\obj\Debug\net6.0\ref\Path.dll

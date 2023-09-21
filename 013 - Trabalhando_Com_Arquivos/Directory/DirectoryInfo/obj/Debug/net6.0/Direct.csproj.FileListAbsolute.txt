@@ -1,0 +1,5 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Directory\DirectoryInfo\obj\Debug\net6.0\Direct.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Directory\DirectoryInfo\obj\Debug\net6.0\Direct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Directory\DirectoryInfo\obj\Debug\net6.0\Direct.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Directory\DirectoryInfo\obj\Debug\net6.0\Direct.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Directory\DirectoryInfo\obj\Debug\net6.0\Direct.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+Path
+
+• Namespace System.IO
+• Realiza operações com strings que contém informações de arquivosou pastas. 
+• https://msdn.microsoft.com/en-us/library/system.io.path(v=vs.110).aspx

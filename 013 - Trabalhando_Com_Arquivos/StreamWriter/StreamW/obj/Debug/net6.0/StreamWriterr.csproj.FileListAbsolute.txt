@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\bin\Debug\net6.0\StreamWriterr.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\bin\Debug\net6.0\StreamWriterr.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\bin\Debug\net6.0\StreamWriterr.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\bin\Debug\net6.0\StreamWriterr.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\bin\Debug\net6.0\StreamWriterr.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\refint\StreamWriterr.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\StreamWriterr.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\StreamWriter\StreamW\obj\Debug\net6.0\ref\StreamWriterr.dll

@@ -1,0 +1,13 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\013 - Trabalhando_Com_Arquivos\Desafio\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache

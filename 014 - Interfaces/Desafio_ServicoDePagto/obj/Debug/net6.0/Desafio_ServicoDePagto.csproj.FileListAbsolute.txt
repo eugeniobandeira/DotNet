@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.AssemblyInfo.cs
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\bin\Debug\net6.0\Desafio_ServicoDePagto.exe
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\bin\Debug\net6.0\Desafio_ServicoDePagto.deps.json
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\bin\Debug\net6.0\Desafio_ServicoDePagto.runtimeconfig.json
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\bin\Debug\net6.0\Desafio_ServicoDePagto.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\bin\Debug\net6.0\Desafio_ServicoDePagto.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\refint\Desafio_ServicoDePagto.dll
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.pdb
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\Desafio_ServicoDePagto.genruntimeconfig.cache
+C:\Users\Genius\Desktop\DotNet\DotNet\014 - Interfaces\Desafio_ServicoDePagto\obj\Debug\net6.0\ref\Desafio_ServicoDePagto.dll

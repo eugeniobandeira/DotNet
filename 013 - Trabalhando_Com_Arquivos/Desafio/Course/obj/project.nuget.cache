@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqLBf6c1Rwx4Xai7cqm52RoOTd4I2nKSODjEiIRx+VMZJz2cKLd7yk18cVFvqTCewqWPL2Bo0lh23uOlpKp+FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Genius\\Desktop\\DotNet\\DotNet\\013 - Trabalhando_Com_Arquivos\\Desafio\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Genius\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Genius\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Genius\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Genius\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Genius\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Genius\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Genius\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
